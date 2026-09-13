@@ -8,6 +8,8 @@ generated: "2026-09-13"
 source: https://www.atomica11y.com/accessible-design/search/
 ---
 
+[Source material](https://www.atomica11y.com/accessible-design/search/)
+
 # Design Search form skills
 
 

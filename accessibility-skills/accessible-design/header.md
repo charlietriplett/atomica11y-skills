@@ -8,6 +8,8 @@ generated: "2026-09-13"
 source: https://www.atomica11y.com/accessible-design/header/
 ---
 
+[Source material](https://www.atomica11y.com/accessible-design/header/)
+
 # Design Header landmark skills
 
 

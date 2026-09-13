@@ -8,6 +8,8 @@ generated: "2026-09-13"
 source: https://www.atomica11y.com/accessible-ios/picker-wheel/
 ---
 
+[Source material](https://www.atomica11y.com/accessible-ios/picker-wheel/)
+
 # iOS Picker wheel / spinner skills
 
 

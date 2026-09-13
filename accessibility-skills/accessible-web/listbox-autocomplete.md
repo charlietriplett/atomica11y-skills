@@ -8,6 +8,8 @@ generated: "2026-09-13"
 source: https://www.atomica11y.com/accessible-web/listbox-autocomplete/
 ---
 
+[Source material](https://www.atomica11y.com/accessible-web/listbox-autocomplete/)
+
 # Web Autocomplete input with listbox skills
 
 
