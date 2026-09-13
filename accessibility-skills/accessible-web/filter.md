@@ -8,6 +8,8 @@ generated: "2026-09-13"
 source: https://www.atomica11y.com/accessible-web/filter/
 ---
 
+[Source material](https://www.atomica11y.com/accessible-web/filter/)
+
 # Web Filter skills
 
 

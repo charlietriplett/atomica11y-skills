@@ -8,6 +8,8 @@ generated: "2026-09-13"
 source: https://www.atomica11y.com/accessible-design/dialog-modal/
 ---
 
+[Source material](https://www.atomica11y.com/accessible-design/dialog-modal/)
+
 # Design Dialog modal skills
 
 

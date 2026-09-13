@@ -8,6 +8,8 @@ generated: "2026-09-13"
 source: https://www.atomica11y.com/accessible-design/button/
 ---
 
+[Source material](https://www.atomica11y.com/accessible-design/button/)
+
 # Design Button skills
 
 

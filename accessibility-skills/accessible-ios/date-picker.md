@@ -8,6 +8,8 @@ generated: "2026-09-13"
 source: https://www.atomica11y.com/accessible-ios/date-picker/
 ---
 
+[Source material](https://www.atomica11y.com/accessible-ios/date-picker/)
+
 # iOS Date picker skills
 
 

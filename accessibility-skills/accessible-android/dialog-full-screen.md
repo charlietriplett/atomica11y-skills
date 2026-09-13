@@ -8,6 +8,8 @@ generated: "2026-09-13"
 source: https://www.atomica11y.com/accessible-android/dialog-full-screen/
 ---
 
+[Source material](https://www.atomica11y.com/accessible-android/dialog-full-screen/)
+
 # Android Full screen dialog skills
 
 
