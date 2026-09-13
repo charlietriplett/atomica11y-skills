@@ -8,8 +8,6 @@ generated: "2026-09-13"
 source: https://www.atomica11y.com/accessible-design/android-view/
 ---
 
-[Source material](https://www.atomica11y.com/accessible-design/android-view/)
-
 # Design Android app view skills
 
 

@@ -8,8 +8,6 @@ generated: "2026-09-13"
 source: https://www.atomica11y.com/accessible-design/heading/
 ---
 
-[Source material](https://www.atomica11y.com/accessible-design/heading/)
-
 # Design Heading: h1, h2, h3 skills
 
 

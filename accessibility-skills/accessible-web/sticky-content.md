@@ -8,8 +8,6 @@ generated: "2026-09-13"
 source: https://www.atomica11y.com/accessible-web/sticky-content/
 ---
 
-[Source material](https://www.atomica11y.com/accessible-web/sticky-content/)
-
 # Web Sticky element skills
 
 

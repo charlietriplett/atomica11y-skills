@@ -8,8 +8,6 @@ generated: "2026-09-13"
 source: https://www.atomica11y.com/accessible-web/skip-link/
 ---
 
-[Source material](https://www.atomica11y.com/accessible-web/skip-link/)
-
 # Web Skip link skills
 
 

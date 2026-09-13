@@ -8,8 +8,6 @@ generated: "2026-09-13"
 source: https://www.atomica11y.com/accessible-design/figure/
 ---
 
-[Source material](https://www.atomica11y.com/accessible-design/figure/)
-
 # Design Maps, charts &amp; graphics skills
 
 

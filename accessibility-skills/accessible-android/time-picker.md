@@ -8,8 +8,6 @@ generated: "2026-09-13"
 source: https://www.atomica11y.com/accessible-android/time-picker/
 ---
 
-[Source material](https://www.atomica11y.com/accessible-android/time-picker/)
-
 # Android Time picker skills
 
 

@@ -8,8 +8,6 @@ generated: "2026-09-13"
 source: https://www.atomica11y.com/accessible-web/section-region/
 ---
 
-[Source material](https://www.atomica11y.com/accessible-web/section-region/)
-
 # Web Region section landmark skills
 
 

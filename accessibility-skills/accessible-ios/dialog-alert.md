@@ -8,8 +8,6 @@ generated: "2026-09-13"
 source: https://www.atomica11y.com/accessible-ios/dialog-alert/
 ---
 
-[Source material](https://www.atomica11y.com/accessible-ios/dialog-alert/)
-
 # iOS Alert dialog skills
 
 

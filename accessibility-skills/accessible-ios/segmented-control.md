@@ -8,8 +8,6 @@ generated: "2026-09-13"
 source: https://www.atomica11y.com/accessible-ios/segmented-control/
 ---
 
-[Source material](https://www.atomica11y.com/accessible-ios/segmented-control/)
-
 # iOS Segmented control skills
 
 

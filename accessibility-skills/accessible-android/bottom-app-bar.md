@@ -8,8 +8,6 @@ generated: "2026-09-13"
 source: https://www.atomica11y.com/accessible-android/bottom-app-bar/
 ---
 
-[Source material](https://www.atomica11y.com/accessible-android/bottom-app-bar/)
-
 # Android Bottom app bar skills
 
 
