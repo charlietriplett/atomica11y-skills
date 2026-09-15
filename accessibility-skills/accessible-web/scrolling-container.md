@@ -4,7 +4,7 @@ title: "Scrolling container"
 platform: web
 skill_type: component-assessment
 version: 1.0.0
-generated: "2026-09-13"
+generated: "2026-09-15"
 source: https://www.atomica11y.com/accessible-web/scrolling-container/
 ---
 
@@ -84,4 +84,4 @@ Commonly repeated myths or false beliefs lead to confusion or misuse of a scroll
 - There is no such thing as above the fold. That’s an outdated concept from the 1990s when people weren’t accustomed to scrolling.
 
 
-> AtomicA11y accessibility skills v1.0.0 | Generated 2026-09-13
+> AtomicA11y accessibility skills v1.0.0 | Generated 2026-09-15

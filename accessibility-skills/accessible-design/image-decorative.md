@@ -4,7 +4,7 @@ title: "Decorative image / icon"
 platform: design
 skill_type: component-assessment
 version: 1.0.0
-generated: "2026-09-13"
+generated: "2026-09-15"
 source: https://www.atomica11y.com/accessible-design/image-decorative/
 ---
 
@@ -28,4 +28,4 @@ A decorative image / icon must work for people with disabilities:
 
 - All non-text content that is purely for decoration or which repeats existing on-screen text nearby should be ignored and skipped over by screenreaders 1.1.1 A
 
-> AtomicA11y accessibility skills v1.0.0 | Generated 2026-09-13
+> AtomicA11y accessibility skills v1.0.0 | Generated 2026-09-15

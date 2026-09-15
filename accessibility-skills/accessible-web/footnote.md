@@ -4,7 +4,7 @@ title: "Footnote"
 platform: web
 skill_type: component-assessment
 version: 1.0.0
-generated: "2026-09-13"
+generated: "2026-09-15"
 source: https://www.atomica11y.com/accessible-web/footnote/
 ---
 
@@ -80,4 +80,4 @@ Commonly repeated myths or false beliefs lead to confusion or misuse of a footno
 - Footnote links do not require additional minimum clickable area as the default size defined by the user agent is considered adequate.
 
 
-> AtomicA11y accessibility skills v1.0.0 | Generated 2026-09-13
+> AtomicA11y accessibility skills v1.0.0 | Generated 2026-09-15

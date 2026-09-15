@@ -4,7 +4,7 @@ title: "Web HTML page"
 platform: web
 skill_type: component-assessment
 version: 1.0.0
-generated: "2026-09-13"
+generated: "2026-09-15"
 source: https://www.atomica11y.com/accessible-web/html/
 ---
 
@@ -91,4 +91,4 @@ Commonly repeated myths or false beliefs lead to confusion or misuse of a web ht
 - The page title is not just for SEO. It is the first thing announced by a screen reader and is critical for distinguishing between multiple open tabs.
 
 
-> AtomicA11y accessibility skills v1.0.0 | Generated 2026-09-13
+> AtomicA11y accessibility skills v1.0.0 | Generated 2026-09-15

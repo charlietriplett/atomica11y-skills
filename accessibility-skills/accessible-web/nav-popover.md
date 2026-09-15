@@ -4,7 +4,7 @@ title: "Nav popover button"
 platform: web
 skill_type: component-assessment
 version: 1.0.0
-generated: "2026-09-13"
+generated: "2026-09-15"
 source: https://www.atomica11y.com/accessible-web/nav-popover/
 ---
 
@@ -104,4 +104,4 @@ Commonly repeated myths or false beliefs lead to confusion or misuse of a nav po
 - Navigation with popovers does not require menu roles.
 
 
-> AtomicA11y accessibility skills v1.0.0 | Generated 2026-09-13
+> AtomicA11y accessibility skills v1.0.0 | Generated 2026-09-15

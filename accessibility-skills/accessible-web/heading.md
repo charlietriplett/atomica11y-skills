@@ -4,7 +4,7 @@ title: "Heading: h1, h2, h3"
 platform: web
 skill_type: component-assessment
 version: 1.0.0
-generated: "2026-09-13"
+generated: "2026-09-15"
 source: https://www.atomica11y.com/accessible-web/heading/
 ---
 
@@ -88,4 +88,4 @@ Commonly repeated myths or false beliefs lead to confusion or misuse of a headin
 - While technically when there are multiple article elements, each one can have an h1, don’t do that. This is not helpful for people using a screen reader who are expecting a singular h1 to convey the purpose of the page as a whole.
 
 
-> AtomicA11y accessibility skills v1.0.0 | Generated 2026-09-13
+> AtomicA11y accessibility skills v1.0.0 | Generated 2026-09-15

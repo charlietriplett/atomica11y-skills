@@ -4,7 +4,7 @@ title: "Sticky element"
 platform: web
 skill_type: component-assessment
 version: 1.0.0
-generated: "2026-09-13"
+generated: "2026-09-15"
 source: https://www.atomica11y.com/accessible-web/sticky-content/
 ---
 
@@ -65,4 +65,4 @@ Commonly repeated myths or false beliefs lead to confusion or misuse of a sticky
 - Sticky headers and navigation are not an automatic usability improvement. Sticky headers take up valuable vertical screen real estate, which can severely hinder users who magnify their screens;
 
 
-> AtomicA11y accessibility skills v1.0.0 | Generated 2026-09-13
+> AtomicA11y accessibility skills v1.0.0 | Generated 2026-09-15

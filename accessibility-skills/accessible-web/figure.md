@@ -4,7 +4,7 @@ title: "Maps, charts & graphics"
 platform: web
 skill_type: component-assessment
 version: 1.0.0
-generated: "2026-09-13"
+generated: "2026-09-15"
 source: https://www.atomica11y.com/accessible-web/figure/
 ---
 
@@ -90,4 +90,4 @@ Commonly repeated myths or false beliefs lead to confusion or misuse of a maps, 
 - Complex visual data is not impossible to make accessible. It can almost always be made searchable, filterable or become a table.
 
 
-> AtomicA11y accessibility skills v1.0.0 | Generated 2026-09-13
+> AtomicA11y accessibility skills v1.0.0 | Generated 2026-09-15

@@ -4,7 +4,7 @@ title: "Chat"
 platform: web
 skill_type: component-assessment
 version: 1.0.0
-generated: "2026-09-13"
+generated: "2026-09-15"
 source: https://www.atomica11y.com/accessible-web/chat/
 ---
 
@@ -101,4 +101,4 @@ Commonly repeated myths or false beliefs lead to confusion or misuse of a chat. 
 - Third-party chat widgets are not always natively accessible out-of-the-box.
 
 
-> AtomicA11y accessibility skills v1.0.0 | Generated 2026-09-13
+> AtomicA11y accessibility skills v1.0.0 | Generated 2026-09-15

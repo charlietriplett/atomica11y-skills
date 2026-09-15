@@ -4,7 +4,7 @@ title: "Table"
 platform: web
 skill_type: component-assessment
 version: 1.0.0
-generated: "2026-09-13"
+generated: "2026-09-15"
 source: https://www.atomica11y.com/accessible-web/table/
 ---
 
@@ -79,4 +79,4 @@ Commonly repeated myths or false beliefs lead to confusion or misuse of a table.
 - Tables are not the only way to display structured data. Unordered lists, ordered lists or definition lists can also describe structured information.
 
 
-> AtomicA11y accessibility skills v1.0.0 | Generated 2026-09-13
+> AtomicA11y accessibility skills v1.0.0 | Generated 2026-09-15

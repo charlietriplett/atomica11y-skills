@@ -4,7 +4,7 @@ title: "Checkbox"
 platform: ios
 skill_type: component-assessment
 version: 1.0.0
-generated: "2026-09-13"
+generated: "2026-09-15"
 source: https://www.atomica11y.com/accessible-ios/checkbox/
 ---
 
@@ -53,4 +53,4 @@ Given that I am on a screen with a checkbox
 - WHEN I use increased contrast I SEE focus outline becomes high contrast
 
 
-> AtomicA11y accessibility skills v1.0.0 | Generated 2026-09-13
+> AtomicA11y accessibility skills v1.0.0 | Generated 2026-09-15

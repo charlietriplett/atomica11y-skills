@@ -233,4 +233,4 @@ Use this format:
 - [Tab bar](accessible-ios/tab-bar.md)
 - [Toggle switch](accessible-ios/toggle-switch.md)
 
-> AtomicA11y accessibility skills v1.0.0 | Generated 2026-09-13
+> AtomicA11y accessibility skills v1.0.0 | Generated 2026-09-15
