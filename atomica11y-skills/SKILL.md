@@ -1,3 +1,8 @@
+---
+name: atomica11y-skills
+description: Component checklists for testing accessibility across multiple platforms
+---
+
 # Accessibility Manual Testing Component Index
 
 ## Strict Platform Guardrails (Mandatory Check)
