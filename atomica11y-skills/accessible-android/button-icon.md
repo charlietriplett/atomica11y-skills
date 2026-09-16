@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-android-button-icon
 title: "Icon button"
+description: Test accessible Android Icon button. Use when an icon-only Android control performs an action.
 platform: android
 skill_type: component-assessment
 version: 1.0.0

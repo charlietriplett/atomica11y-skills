@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-design-select
 title: "Select dropdown"
+description: Design accessible Select dropdown. Use when people select a value from a predefined set of options.
 platform: design
 skill_type: component-assessment
 version: 1.0.0

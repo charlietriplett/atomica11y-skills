@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-web-form
 title: "Form"
+description: Code and test accessible Web Form. Use when people enter, review, and submit related information.
 platform: web
 skill_type: component-assessment
 version: 1.0.0

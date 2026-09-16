@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-web-progress
 title: "Progress indicator"
+description: Code and test accessible Web Progress indicator. Use when a Web task has measurable progress or an indeterminate loading state.
 platform: web
 skill_type: component-assessment
 version: 1.0.0

@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-android-time-picker
 title: "Time picker"
+description: Test accessible Android Time picker. Use when people select an Android time.
 platform: android
 skill_type: component-assessment
 version: 1.0.0

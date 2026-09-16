@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-design-header
 title: "Header landmark"
+description: Design accessible Header landmark\". Use when a page or section begins with introductory or navigational content.
 platform: design
 skill_type: component-assessment
 version: 1.0.0

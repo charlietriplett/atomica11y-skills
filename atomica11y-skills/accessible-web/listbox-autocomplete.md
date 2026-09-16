@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-web-listbox-autocomplete
 title: "Autocomplete input with listbox"
+description: Code and test accessible Web Autocomplete input with listbox. Use when people type to select a value from suggested Web options.
 platform: web
 skill_type: component-assessment
 version: 1.0.0

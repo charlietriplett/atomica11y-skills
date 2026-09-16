@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-ios-pop-up-button
 title: "Pop-up button"
+description: Test accessible iOS Pop-up button\". Use when an iOS button opens a menu of choices.
 platform: ios
 skill_type: component-assessment
 version: 1.0.0

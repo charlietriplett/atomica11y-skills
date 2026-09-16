@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-ios-dialog-sheet
 title: "Sheet dialog"
+description: Test accessible iOS Sheet dialog\". Use when a task or message is presented in a modal sheet.
 platform: ios
 skill_type: component-assessment
 version: 1.0.0

@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-ios-tab-bar
 title: "Tab bar"
+description: Test accessible iOS Tab bar\". Use when people switch between primary iOS destinations.
 platform: ios
 skill_type: component-assessment
 version: 1.0.0

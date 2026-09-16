@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-android-badge
 title: "Badge"
+description: Test accessible Android Badge. Use when a compact status, count, or label is shown with another Android control.
 platform: android
 skill_type: component-assessment
 version: 1.0.0

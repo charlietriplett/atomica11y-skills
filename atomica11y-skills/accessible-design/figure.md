@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-design-figure
 title: "Maps, charts & graphics"
+description: Design accessible Maps, charts & graphics. Use when a chart, map, graphic, illustration, or its caption conveys information.
 platform: design
 skill_type: component-assessment
 version: 1.0.0

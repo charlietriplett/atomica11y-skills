@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-android-menu
 title: "Menu"
+description: Test accessible Android Menu. Use when an Android control opens a list of related commands or choices.
 platform: android
 skill_type: component-assessment
 version: 1.0.0

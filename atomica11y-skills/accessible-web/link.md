@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-web-link
 title: "Link"
+description: Code and test accessible Web Link. Use when a control navigates to a URL or location within the current page or screen.
 platform: web
 skill_type: component-assessment
 version: 1.0.0

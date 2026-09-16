@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-design-animation
 title: "Animation & motion"
+description: Design accessible Animation & motion. Use when motion, animation, or video movement is part of an interface.
 platform: design
 skill_type: component-assessment
 version: 1.0.0

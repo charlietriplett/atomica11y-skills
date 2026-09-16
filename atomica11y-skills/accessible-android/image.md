@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-android-image
 title: "Informative image"
+description: Test accessible Android Informative image. Use when an image conveys information needed to understand the content.
 platform: android
 skill_type: component-assessment
 version: 1.0.0

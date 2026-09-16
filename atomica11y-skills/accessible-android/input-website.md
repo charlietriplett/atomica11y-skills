@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-android-input-website
 title: "Website input field"
+description: Test accessible Android Website input field\". Use when people enter a website address.
 platform: android
 skill_type: component-assessment
 version: 1.0.0

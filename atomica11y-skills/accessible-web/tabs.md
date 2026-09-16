@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-web-tabs
 title: "Tab group"
+description: Code and test accessible Web Tab group. Use when people switch between related panels without leaving the current page or screen.
 platform: web
 skill_type: component-assessment
 version: 1.0.0

@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-android-snackbar
 title: "Snackbar"
+description: Test accessible Android Snackbar. Use when a temporary Android status message confirms an action or reports a non-blocking event.
 platform: android
 skill_type: component-assessment
 version: 1.0.0

@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-web-heading
 title: "Heading: h1, h2, h3"
+description: Code and test accessible Web Heading: h1, h2, h3\". Use when a title introduces a page or section of content.
 platform: web
 skill_type: component-assessment
 version: 1.0.0

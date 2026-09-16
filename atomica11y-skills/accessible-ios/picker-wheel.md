@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-ios-picker-wheel
 title: "Picker wheel / spinner"
+description: Test accessible iOS Picker wheel / spinner\". Use when people choose an iOS value by rotating a picker wheel.
 platform: ios
 skill_type: component-assessment
 version: 1.0.0

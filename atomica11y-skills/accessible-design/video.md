@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-design-video
 title: "Video player"
+description: Design accessible Video player. Use when a video player or video content is part of the interface.
 platform: design
 skill_type: component-assessment
 version: 1.0.0

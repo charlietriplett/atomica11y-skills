@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-ios-image
 title: "Informative image"
+description: Test accessible iOS Informative image\". Use when an image conveys information needed to understand the content.
 platform: ios
 skill_type: component-assessment
 version: 1.0.0

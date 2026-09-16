@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-web-strikethrough
 title: "Strikethrough content"
+description: Code and test accessible Web Strikethrough content. Use when Web text is visually struck through to indicate removed or unavailable content.
 platform: web
 skill_type: component-assessment
 version: 1.0.0

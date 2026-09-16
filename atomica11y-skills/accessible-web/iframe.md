@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-web-iframe
 title: "iframe"
+description: Code and test accessible Web iframe. Use when third-party or separate Web content is embedded in an inline frame.
 platform: web
 skill_type: component-assessment
 version: 1.0.0

@@ -73,7 +73,7 @@ Use this format:
 
 ### Results
 
-| Check                 | Status  | Evidence                                   | Remediation                          |
+| Check                 | Status  | Evidence                                  | Remediation                          |
 |-----------------------|---------|-------------------------------------------|--------------------------------------|
 | Keyboard activation   | Pass    | Enter and Space activate the control      | N/A                                  |
 | Accessible name/role  | Fail    | Screen reader announces "button" only     | Provide an accessible name           |

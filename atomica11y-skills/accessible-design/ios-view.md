@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-design-ios-view
 title: "iOS app view"
+description: Design accessible iOS app view. Use when defining the structure and accessibility of an iOS screen.
 platform: design
 skill_type: component-assessment
 version: 1.0.0

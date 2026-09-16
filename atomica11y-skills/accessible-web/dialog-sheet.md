@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-web-dialog-sheet
 title: "Dialog sheet"
+description: Code and test accessible Web Dialog sheet. Use when a task or message is presented in a modal sheet.
 platform: web
 skill_type: component-assessment
 version: 1.0.0

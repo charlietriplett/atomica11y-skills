@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-web-table
 title: "Table"
+description: Code and test accessible Web Table. Use when Web data is organized in rows and columns.
 platform: web
 skill_type: component-assessment
 version: 1.0.0

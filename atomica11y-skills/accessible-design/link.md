@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-design-link
 title: "Link"
+description: Design accessible Link. Use when a control navigates to a URL or location within the current page or screen.
 platform: design
 skill_type: component-assessment
 version: 1.0.0

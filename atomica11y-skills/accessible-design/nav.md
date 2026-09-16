@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-design-nav
 title: "Navigation landmark"
+description: Design accessible Navigation landmark. Use when a group of links provides navigation.
 platform: design
 skill_type: component-assessment
 version: 1.0.0

@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-design-footer
 title: "Footer landmark"
+description: Design accessible Footer landmark. Use when a site or page footer contains supporting navigation or information.
 platform: design
 skill_type: component-assessment
 version: 1.0.0

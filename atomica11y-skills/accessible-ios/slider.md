@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-ios-slider
 title: "Slider"
+description: Test accessible iOS Slider\". Use when people set an Android or iOS value within a numeric range.
 platform: ios
 skill_type: component-assessment
 version: 1.0.0

@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-ios-toggle-switch
 title: "Toggle switch"
+description: Test accessible iOS Toggle switch\". Use when people immediately turn a setting on or off.
 platform: ios
 skill_type: component-assessment
 version: 1.0.0

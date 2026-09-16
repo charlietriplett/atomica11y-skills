@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-android-toggle-switch
 title: "Toggle switch"
+description: Test accessible Android Toggle switch\". Use when people immediately turn a setting on or off.
 platform: android
 skill_type: component-assessment
 version: 1.0.0

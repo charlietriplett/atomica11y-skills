@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-ios-heading
 title: "Heading"
+description: Test accessible iOS Heading\". Use when a title introduces a page or section of content.
 platform: ios
 skill_type: component-assessment
 version: 1.0.0

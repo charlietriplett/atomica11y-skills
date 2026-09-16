@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-ios-card
 title: "Card box"
+description: Test accessible iOS Card box\". Use when related content or actions are grouped in a contained surface.
 platform: ios
 skill_type: component-assessment
 version: 1.0.0

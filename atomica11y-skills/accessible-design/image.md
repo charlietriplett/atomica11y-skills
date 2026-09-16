@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-design-image
 title: "Informative image"
+description: Design accessible Informative image. Use when an image conveys information needed to understand the content.
 platform: design
 skill_type: component-assessment
 version: 1.0.0

@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-web-nav-popover
 title: "Nav popover button"
+description: Code and test accessible Web Nav popover button. Use when a Web navigation button opens a non-modal menu or popover.
 platform: web
 skill_type: component-assessment
 version: 1.0.0

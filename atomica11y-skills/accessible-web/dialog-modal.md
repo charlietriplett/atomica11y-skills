@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-web-dialog-modal
 title: "Dialog modal"
+description: Code and test accessible Web Dialog modal. Use when a task or message requires a response before people return to the underlying content.
 platform: web
 skill_type: component-assessment
 version: 1.0.0

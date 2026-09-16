@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-design-radio
 title: "Radio button"
+description: Design accessible Radio button. Use when people select exactly one option from a related group.
 platform: design
 skill_type: component-assessment
 version: 1.0.0

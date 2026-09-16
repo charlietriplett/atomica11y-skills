@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-ios-date-picker
 title: "Date picker"
+description: Test accessible iOS Date picker\". Use when people select a calendar date.
 platform: ios
 skill_type: component-assessment
 version: 1.0.0

@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-android-dialog-full-screen
 title: "Full screen dialog"
+description: Test accessible Android Full screen dialog. Use when an Android task needs a full-screen dialog.
 platform: android
 skill_type: component-assessment
 version: 1.0.0

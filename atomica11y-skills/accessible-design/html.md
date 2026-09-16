@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-design-html
 title: "Web HTML page"
+description: Design accessible Web HTML page. Use when defining the semantic structure of a Web page or design handoff.
 platform: design
 skill_type: component-assessment
 version: 1.0.0

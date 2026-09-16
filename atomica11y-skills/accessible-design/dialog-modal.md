@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-design-dialog-modal
 title: "Dialog modal"
+description: Design accessible Dialog modal. Use when a task or message requires a response before people return to the underlying content.
 platform: design
 skill_type: component-assessment
 version: 1.0.0

@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-web-aria-live
 title: "Dynamic single page app"
+description: Code and test accessible Web Dynamic single page app. Use when dynamic Web content must be announced without moving focus.
 platform: web
 skill_type: component-assessment
 version: 1.0.0

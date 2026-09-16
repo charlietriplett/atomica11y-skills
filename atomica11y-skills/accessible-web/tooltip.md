@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-web-tooltip
 title: "Tooltip"
+description: Code and test accessible Web Tooltip. Use when brief supplementary information appears for a control.
 platform: web
 skill_type: component-assessment
 version: 1.0.0

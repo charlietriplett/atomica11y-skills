@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-web-date-picker
 title: "Date picker dialog"
+description: Code and test accessible Web Date picker dialog. Use when people select a calendar date.
 platform: web
 skill_type: component-assessment
 version: 1.0.0

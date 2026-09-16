@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-ios-input-website
 title: "Website input field"
+description: Test accessible iOS Website input field\". Use when people enter a website address.
 platform: ios
 skill_type: component-assessment
 version: 1.0.0

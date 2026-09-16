@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-design-checkbox
 title: "Checkbox"
+description: Design accessible Checkbox. Use when people can independently select one or more options.
 platform: design
 skill_type: component-assessment
 version: 1.0.0

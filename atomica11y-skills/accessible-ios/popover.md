@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-ios-popover
 title: "Popover tooltip"
+description: Test accessible iOS Popover tooltip\". Use when a control reveals non-modal contextual content while the underlying content remains available.
 platform: ios
 skill_type: component-assessment
 version: 1.0.0

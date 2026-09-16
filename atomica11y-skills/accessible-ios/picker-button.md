@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-ios-picker-button
 title: "Picker button"
+description: Test accessible iOS Picker button\". Use when an iOS button opens a picker to choose a value.
 platform: ios
 skill_type: component-assessment
 version: 1.0.0

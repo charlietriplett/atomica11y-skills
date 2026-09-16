@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-ios-search
 title: "Search input field"
+description: Test accessible iOS Search input field\". Use when people enter a query to find content.
 platform: ios
 skill_type: component-assessment
 version: 1.0.0

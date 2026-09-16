@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-ios-horizontal-scroll
 title: "Horizontal scroll"
+description: Test accessible iOS Horizontal scroll\". Use when iOS content scrolls horizontally.
 platform: ios
 skill_type: component-assessment
 version: 1.0.0

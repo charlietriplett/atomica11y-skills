@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-design-expander
 title: "Expander accordion"
+description: Design accessible Expander accordion. Use when a button reveals or hides content in the current context.
 platform: design
 skill_type: component-assessment
 version: 1.0.0

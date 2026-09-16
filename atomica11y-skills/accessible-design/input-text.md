@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-design-input-text
 title: "Text input"
+description: Design accessible Text input. Use when people enter a short text value.
 platform: design
 skill_type: component-assessment
 version: 1.0.0

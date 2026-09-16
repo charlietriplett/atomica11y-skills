@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-ios-segmented-control
 title: "Segmented control"
+description: Test accessible iOS Segmented control\". Use when people select iOS options from a compact, mutually exclusive group.
 platform: ios
 skill_type: component-assessment
 version: 1.0.0

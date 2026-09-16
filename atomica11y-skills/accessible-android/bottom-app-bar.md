@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-android-bottom-app-bar
 title: "Bottom app bar"
+description: Test accessible Android Bottom app bar. Use when persistent Android actions are placed at the bottom of a screen.
 platform: android
 skill_type: component-assessment
 version: 1.0.0

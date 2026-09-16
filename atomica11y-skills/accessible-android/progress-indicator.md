@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-android-progress-indicator
 title: "Progress indicator"
+description: Test accessible Android Progress indicator. Use when an Android task has measurable progress or an indeterminate loading state.
 platform: android
 skill_type: component-assessment
 version: 1.0.0

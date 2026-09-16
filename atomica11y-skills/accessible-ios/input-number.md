@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-ios-input-number
 title: "Number input field"
+description: Test accessible iOS Number input field\". Use when people enter a numeric value.
 platform: ios
 skill_type: component-assessment
 version: 1.0.0

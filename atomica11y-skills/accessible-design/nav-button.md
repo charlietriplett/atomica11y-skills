@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-design-nav-button
 title: "Nav menu button"
+description: Design accessible Nav menu button. Use when a button opens or controls a navigation menu.
 platform: design
 skill_type: component-assessment
 version: 1.0.0

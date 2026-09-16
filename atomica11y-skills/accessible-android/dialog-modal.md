@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-android-dialog-modal
 title: "Basic dialog"
+description: Test accessible Android Basic dialog. Use when a task or message requires a response before people return to the underlying content.
 platform: android
 skill_type: component-assessment
 version: 1.0.0

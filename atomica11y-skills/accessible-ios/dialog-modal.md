@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-ios-dialog-modal
 title: "Modal dialog"
+description: Test accessible iOS Modal dialog\". Use when a task or message requires a response before people return to the underlying content.
 platform: ios
 skill_type: component-assessment
 version: 1.0.0

@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-design-audio
 title: "Audio player"
+description: Design accessible Audio player. Use when an audio player or audio content is part of the interface.
 platform: design
 skill_type: component-assessment
 version: 1.0.0

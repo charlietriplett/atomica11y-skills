@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-web-header
 title: "Header / banner landmark"
+description: Code and test accessible Web Header / banner landmark\". Use when a page or section begins with introductory or navigational content.
 platform: web
 skill_type: component-assessment
 version: 1.0.0

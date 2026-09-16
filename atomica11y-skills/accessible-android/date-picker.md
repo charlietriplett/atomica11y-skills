@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-android-date-picker
 title: "Date picker"
+description: Test accessible Android Date picker. Use when people select a calendar date.
 platform: android
 skill_type: component-assessment
 version: 1.0.0

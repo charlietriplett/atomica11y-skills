@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-web-radio
 title: "Radio button"
+description: Code and test accessible Web Radio button. Use when people select exactly one option from a related group.
 platform: web
 skill_type: component-assessment
 version: 1.0.0

@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-web-image
 title: "Informative image"
+description: Code and test accessible Web Informative image. Use when an image conveys information needed to understand the content.
 platform: web
 skill_type: component-assessment
 version: 1.0.0

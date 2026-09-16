@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-web-main
 title: "Main landmark"
+description: Code and test accessible Web Main landmark. Use when identifying the primary Web content of a page.
 platform: web
 skill_type: component-assessment
 version: 1.0.0

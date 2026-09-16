@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-android-carousel
 title: "Carousel"
+description: Test accessible Android Carousel. Use when content is presented as a sequence of slides, panels, or steps.
 platform: android
 skill_type: component-assessment
 version: 1.0.0

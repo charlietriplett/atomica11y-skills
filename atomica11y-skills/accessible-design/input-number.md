@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-design-input-number
 title: "Number input"
+description: Design accessible Number input. Use when people enter a numeric value.
 platform: design
 skill_type: component-assessment
 version: 1.0.0

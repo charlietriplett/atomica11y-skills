@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-ios-dialog-alert
 title: "Alert dialog"
+description: Test accessible iOS Alert dialog\". Use when an urgent message requires acknowledgement before people continue.
 platform: ios
 skill_type: component-assessment
 version: 1.0.0

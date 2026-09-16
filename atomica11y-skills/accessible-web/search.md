@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-web-search
 title: "Search input"
+description: Code and test accessible Web Search input. Use when people enter a query to find content.
 platform: web
 skill_type: component-assessment
 version: 1.0.0

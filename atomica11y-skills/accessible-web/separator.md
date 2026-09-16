@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-web-separator
 title: "Separator / horizontal rule"
+description: Code and test accessible Web Separator / horizontal rule. Use when a visual Web divider represents a thematic break between content.
 platform: web
 skill_type: component-assessment
 version: 1.0.0

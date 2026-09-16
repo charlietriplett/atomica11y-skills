@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-android-input-text
 title: "Text input field"
+description: Test accessible Android Text input field\". Use when people enter a short text value.
 platform: android
 skill_type: component-assessment
 version: 1.0.0

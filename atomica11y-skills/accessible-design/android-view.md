@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-design-android-view
 title: "Android app view"
+description: Design accessible Android app view. Use when defining the structure and accessibility of an Android screen.
 platform: design
 skill_type: component-assessment
 version: 1.0.0

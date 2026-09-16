@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-web-html
 title: "Web HTML page"
+description: Code and test accessible Web Web HTML page. Use when defining the semantic structure of a Web page or design handoff.
 platform: web
 skill_type: component-assessment
 version: 1.0.0

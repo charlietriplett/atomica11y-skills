@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-web-scrolling-container
 title: "Scrolling container"
+description: Code and test accessible Web Scrolling container. Use when content is constrained to a scrollable overflow container.
 platform: web
 skill_type: component-assessment
 version: 1.0.0

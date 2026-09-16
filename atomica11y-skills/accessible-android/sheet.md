@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-android-sheet
 title: "Sheet"
+description: Test accessible Android Sheet. Use when an Android task or message is presented from a screen edge.
 platform: android
 skill_type: component-assessment
 version: 1.0.0

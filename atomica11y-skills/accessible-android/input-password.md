@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-android-input-password
 title: "Password input field"
+description: Test accessible Android Password input field\". Use when people enter a password.
 platform: android
 skill_type: component-assessment
 version: 1.0.0

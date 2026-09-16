@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-web-dialog-alert
 title: "Dialog alert"
+description: Code and test accessible Web Dialog alert. Use when an urgent message requires acknowledgement before people continue.
 platform: web
 skill_type: component-assessment
 version: 1.0.0

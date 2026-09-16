@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-web-sticky-content
 title: "Sticky element"
+description: Code and test accessible Web Sticky element. Use when Web content remains fixed while the page scrolls.
 platform: web
 skill_type: component-assessment
 version: 1.0.0

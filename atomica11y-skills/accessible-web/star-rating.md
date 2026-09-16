@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-web-star-rating
 title: "Star rating input"
+description: Code and test accessible Web Star rating input. Use when people select a Web rating using a star-based control.
 platform: web
 skill_type: component-assessment
 version: 1.0.0

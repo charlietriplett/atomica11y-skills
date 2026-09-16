@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-ios-checkbox
 title: "Checkbox"
+description: Test accessible iOS Checkbox\". Use when people can independently select one or more options.
 platform: ios
 skill_type: component-assessment
 version: 1.0.0

@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-web-animation
 title: "Animation"
+description: Code and test accessible Web Animation. Use when motion, animation, or video movement is part of an interface.
 platform: web
 skill_type: component-assessment
 version: 1.0.0

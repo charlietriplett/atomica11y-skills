@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-web-pagination
 title: "Pagination nav"
+description: Code and test accessible Web Pagination nav. Use when people move between pages of a multi-page Web result set.
 platform: web
 skill_type: component-assessment
 version: 1.0.0

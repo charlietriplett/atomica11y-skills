@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-ios-announcement
 title: "Announcement / update"
+description: Test accessible iOS Announcement / update\". Use when an important status change needs an iOS accessibility announcement.
 platform: ios
 skill_type: component-assessment
 version: 1.0.0

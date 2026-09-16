@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-web-list
 title: "List"
+description: Code and test accessible Web List\". Use when related Web items are presented as a list.
 platform: web
 skill_type: component-assessment
 version: 1.0.0

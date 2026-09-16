@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-ios-input-phone
 title: "Phone input field"
+description: Test accessible iOS Phone input field\". Use when people enter a telephone number.
 platform: ios
 skill_type: component-assessment
 version: 1.0.0

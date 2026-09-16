@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-android-image-decorative
 title: "Decorative image"
+description: Test accessible Android Decorative image. Use when an image is visual decoration and conveys no needed information.
 platform: android
 skill_type: component-assessment
 version: 1.0.0

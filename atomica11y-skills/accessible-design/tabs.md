@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-design-tabs
 title: "Tab group"
+description: Design accessible Tab group. Use when people switch between related panels without leaving the current page or screen.
 platform: design
 skill_type: component-assessment
 version: 1.0.0

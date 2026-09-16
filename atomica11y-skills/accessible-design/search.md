@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-design-search
 title: "Search form"
+description: Design accessible Search form. Use when people enter a query to find content.
 platform: design
 skill_type: component-assessment
 version: 1.0.0

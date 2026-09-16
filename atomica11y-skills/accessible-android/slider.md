@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-android-slider
 title: "Slider"
+description: Test accessible Android Slider. Use when people set an Android or iOS value within a numeric range.
 platform: android
 skill_type: component-assessment
 version: 1.0.0

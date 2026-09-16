@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-ios-link
 title: "Link"
+description: Test accessible iOS Link\". Use when a control navigates to a URL or location within the current page or screen.
 platform: ios
 skill_type: component-assessment
 version: 1.0.0

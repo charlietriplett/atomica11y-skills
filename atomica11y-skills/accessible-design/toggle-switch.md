@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-design-toggle-switch
 title: "Toggle switch"
+description: Design accessible Toggle switch. Use when people immediately turn a setting on or off.
 platform: design
 skill_type: component-assessment
 version: 1.0.0

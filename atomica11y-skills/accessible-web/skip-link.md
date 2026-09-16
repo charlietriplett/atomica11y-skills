@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-web-skip-link
 title: "Skip link"
+description: Code and test accessible Web Skip link. Use when keyboard users need to bypass repeated Web navigation.
 platform: web
 skill_type: component-assessment
 version: 1.0.0

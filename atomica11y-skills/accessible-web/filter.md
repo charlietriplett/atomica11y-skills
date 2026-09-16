@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-web-filter
 title: "Filter"
+description: Code and test accessible Web Filter. Use when people refine a set of Web search results or listed items.
 platform: web
 skill_type: component-assessment
 version: 1.0.0

@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-web-footer
 title: "Footer / contentinfo landmark"
+description: Code and test accessible Web Footer / contentinfo landmark. Use when a site or page footer contains supporting navigation or information.
 platform: web
 skill_type: component-assessment
 version: 1.0.0

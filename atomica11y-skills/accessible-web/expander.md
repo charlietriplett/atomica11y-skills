@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-web-expander
 title: "Expander accordion"
+description: Code and test accessible Web Expander accordion. Use when a button reveals or hides content in the current context.
 platform: web
 skill_type: component-assessment
 version: 1.0.0

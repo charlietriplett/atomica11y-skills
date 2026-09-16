@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-web-checkbox
 title: "Checkbox"
+description: Code and test accessible Web Checkbox. Use when people can independently select one or more options.
 platform: web
 skill_type: component-assessment
 version: 1.0.0

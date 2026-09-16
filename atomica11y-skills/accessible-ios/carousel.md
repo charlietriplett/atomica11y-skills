@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-ios-carousel
 title: "Carousel slideshow"
+description: Test accessible iOS Carousel slideshow\". Use when content is presented as a sequence of slides, panels, or steps.
 platform: ios
 skill_type: component-assessment
 version: 1.0.0

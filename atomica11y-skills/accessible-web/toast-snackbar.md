@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-web-toast-snackbar
 title: "Toast snackbar"
+description: Code and test accessible Web Toast snackbar. Use when a temporary Web status message confirms an action or reports a non-blocking event.
 platform: web
 skill_type: component-assessment
 version: 1.0.0

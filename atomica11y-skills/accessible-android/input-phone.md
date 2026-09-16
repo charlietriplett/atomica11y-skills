@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-android-input-phone
 title: "Phone input field"
+description: Test accessible Android Phone input field\". Use when people enter a telephone number.
 platform: android
 skill_type: component-assessment
 version: 1.0.0

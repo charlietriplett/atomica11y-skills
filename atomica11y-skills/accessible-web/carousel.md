@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-web-carousel
 title: "Carousel slideshow"
+description: Code and test accessible Web Carousel slideshow. Use when content is presented as a sequence of slides, panels, or steps.
 platform: web
 skill_type: component-assessment
 version: 1.0.0

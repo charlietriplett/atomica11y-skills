@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-ios-stepper
 title: "Stepper"
+description: Test accessible iOS Stepper\". Use when people increment or decrement an iOS numeric value.
 platform: ios
 skill_type: component-assessment
 version: 1.0.0

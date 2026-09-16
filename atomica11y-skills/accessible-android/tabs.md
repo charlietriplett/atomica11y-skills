@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-android-tabs
 title: "Tabs"
+description: Test accessible Android Tabs. Use when people switch between related panels without leaving the current page or screen.
 platform: android
 skill_type: component-assessment
 version: 1.0.0

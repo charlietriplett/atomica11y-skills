@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-web-hint-help-error
 title: "Hint, help, or error"
+description: Code and test accessible Web Hint, help, or error. Use when a form field needs help text, a hint, or an error message.
 platform: web
 skill_type: component-assessment
 version: 1.0.0

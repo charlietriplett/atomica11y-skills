@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-ios-progress-gauge
 title: "Progress gauge"
+description: Test accessible iOS Progress gauge\". Use when an iOS task has measurable progress or an indeterminate loading state.
 platform: ios
 skill_type: component-assessment
 version: 1.0.0

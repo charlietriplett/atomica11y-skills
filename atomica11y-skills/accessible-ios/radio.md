@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-ios-radio
 title: "Radio button"
+description: Test accessible iOS Radio button\". Use when people select exactly one option from a related group.
 platform: ios
 skill_type: component-assessment
 version: 1.0.0

@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-web-section-region
 title: "Region section landmark"
+description: Code and test accessible Web Region section landmark. Use when a labeled Web section needs to be exposed as a navigation landmark.
 platform: web
 skill_type: component-assessment
 version: 1.0.0

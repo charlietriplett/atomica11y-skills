@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-design-breadcrumbs
 title: "Breadcrumb navigation"
+description: Design accessible Breadcrumb navigation. Use when people need to understand or navigate a hierarchical path.
 platform: design
 skill_type: component-assessment
 version: 1.0.0

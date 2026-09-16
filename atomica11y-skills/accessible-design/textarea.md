@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-design-textarea
 title: "Textarea multiline input"
+description: Design accessible Textarea multiline input. Use when people enter a multi-line text response.
 platform: design
 skill_type: component-assessment
 version: 1.0.0

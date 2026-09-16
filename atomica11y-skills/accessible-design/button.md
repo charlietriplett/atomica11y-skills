@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-design-button
 title: "Button"
+description: Design accessible Button. Use when a control performs an action, submits a form, or changes content on the current screen.
 platform: design
 skill_type: component-assessment
 version: 1.0.0

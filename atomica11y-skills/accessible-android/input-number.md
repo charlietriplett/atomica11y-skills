@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-android-input-number
 title: "Number input field"
+description: Test accessible Android Number input field\". Use when people enter a numeric value.
 platform: android
 skill_type: component-assessment
 version: 1.0.0

@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-design-popover
 title: "Popover"
+description: Design accessible Popover. Use when a control reveals non-modal contextual content while the underlying content remains available.
 platform: design
 skill_type: component-assessment
 version: 1.0.0

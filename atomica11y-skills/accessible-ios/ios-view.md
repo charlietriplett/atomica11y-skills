@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-ios-ios-view
 title: "iOS app view"
+description: Test accessible iOS iOS app view. Use when defining the structure and accessibility of an iOS screen.
 platform: ios
 skill_type: component-assessment
 version: 1.0.0

@@ -1,6 +1,7 @@
 ---
 id: atomica11y-skills-ios-pull-drop-down
 title: "Drop/pull down button"
+description: Test accessible iOS Drop/pull down button\". Use when an iOS control reveals choices from a pull-down menu.
 platform: ios
 skill_type: component-assessment
 version: 1.0.0
