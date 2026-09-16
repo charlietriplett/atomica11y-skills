@@ -4,7 +4,7 @@ title: "Decorative image"
 platform: ios
 skill_type: component-assessment
 version: 1.0.0
-generated: "2026-09-15"
+generated: "2026-09-16"
 source: https://www.atomica11y.com/accessible-ios/image-decorative/
 ---
 
@@ -36,4 +36,4 @@ Given that I am on a screen with a decorative image
   - I HEAR it ignores/skips the image completely
 
 
-> AtomicA11y accessibility skills v1.0.0 | Generated 2026-09-15
+> AtomicA11y accessibility skills v1.0.0 | Generated 2026-09-16

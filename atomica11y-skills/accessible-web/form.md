@@ -4,7 +4,7 @@ title: "Form"
 platform: web
 skill_type: component-assessment
 version: 1.0.0
-generated: "2026-09-15"
+generated: "2026-09-16"
 source: https://www.atomica11y.com/accessible-web/form/
 ---
 
@@ -80,4 +80,4 @@ Commonly repeated myths or false beliefs lead to confusion or misuse of a form. 
 - There is no advantage to cramming a form into multiple columns to save space, and doing so severely hinders users with low vision. People are accustomed to scrolling vertically.
 
 
-> AtomicA11y accessibility skills v1.0.0 | Generated 2026-09-15
+> AtomicA11y accessibility skills v1.0.0 | Generated 2026-09-16

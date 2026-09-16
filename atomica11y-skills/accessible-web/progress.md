@@ -4,7 +4,7 @@ title: "Progress indicator"
 platform: web
 skill_type: component-assessment
 version: 1.0.0
-generated: "2026-09-15"
+generated: "2026-09-16"
 source: https://www.atomica11y.com/accessible-web/progress/
 ---
 
@@ -76,4 +76,4 @@ Commonly repeated myths or false beliefs lead to confusion or misuse of a progre
 - A loading spinner by itself is not a complete component. Programmatic roles are needed for people using a screen reader. Assistive technology must receive answers to the 2 questions. What is happening? Is the system working?
 
 
-> AtomicA11y accessibility skills v1.0.0 | Generated 2026-09-15
+> AtomicA11y accessibility skills v1.0.0 | Generated 2026-09-16

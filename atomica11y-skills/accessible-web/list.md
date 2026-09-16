@@ -4,7 +4,7 @@ title: "List"
 platform: web
 skill_type: component-assessment
 version: 1.0.0
-generated: "2026-09-15"
+generated: "2026-09-16"
 source: https://www.atomica11y.com/accessible-web/list/
 ---
 
@@ -59,9 +59,8 @@ Data for deciding which components to use for what purposes.
 
 List usage guidelines provide insight into when and how to use a component effectively, ensuring that it serves its intended purpose.
 
-- Use a list when presenting any collection of related items
+- Use a list when presenting any collection of related items.
 - Use a list to improve visual scanning and comprehension of related content.
-- Use a list to group links in a <code class="language-plaintext highlighter-rouge">&lt;nav&gt;</code>, product listing page,
 - Use a list when each item in a collection has equal importance and priority.
 - Use a list when screen reader users will benefit from list semantics because item counts and list boundaries are announced.
 
@@ -80,8 +79,7 @@ Antipatterns are common misuses of a component that lead to poor user experience
 
 Commonly repeated myths or false beliefs lead to confusion or misuse of a list. Examine these myths to ensure you're using the component correctly and effectively, even when people repeat a myth as fact.
 
-- Lists are not just for visual collection of content, they are appropriate for navigation links and buttons too.
-- Visual spacing alone does not communicate the relationships between items as effectively as semantic list markup.
+- Visual spacing alone does not programmatically communicate the relationships between items as effectively as semantic list markup.
 
 
-> AtomicA11y accessibility skills v1.0.0 | Generated 2026-09-15
+> AtomicA11y accessibility skills v1.0.0 | Generated 2026-09-16

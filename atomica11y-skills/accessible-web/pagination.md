@@ -4,7 +4,7 @@ title: "Pagination nav"
 platform: web
 skill_type: component-assessment
 version: 1.0.0
-generated: "2026-09-15"
+generated: "2026-09-16"
 source: https://www.atomica11y.com/accessible-web/pagination/
 ---
 
@@ -81,4 +81,4 @@ Commonly repeated myths or false beliefs lead to confusion or misuse of a pagina
 - Infinite scroll is not inherently more usable; pagination provides clearer orientation and recovery.
 
 
-> AtomicA11y accessibility skills v1.0.0 | Generated 2026-09-15
+> AtomicA11y accessibility skills v1.0.0 | Generated 2026-09-16

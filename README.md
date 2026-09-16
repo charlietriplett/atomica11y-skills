@@ -8,4 +8,4 @@ The files in [`atomica11y-skills/`](atomica11y-skills/) are automatically publis
 
 Copyright 2026 Charlie Triplett LLC.
 
-These skills are distributed under the [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0).
+These skills are distributed under the [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0). See the [license](https://github.com/charlietriplett/atomica11y/blob/main/LICENSE.txt) and [notice](https://github.com/charlietriplett/atomica11y/blob/main/NOTICE.txt) in the source repository for terms and attributions.

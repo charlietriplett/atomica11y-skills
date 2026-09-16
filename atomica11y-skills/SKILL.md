@@ -5,49 +5,63 @@ description: Component checklists for testing accessibility across multiple plat
 
 # Accessibility Manual Testing Component Index
 
-## Strict Platform Guardrails (Mandatory Check)
+## Scope of Application
 
-Before accessing any component, you always must definitively verify the target platform (Design, Android, iOS, or Web). **You must strictly isolate criteria by platform.**
+This document applies **only** to tasks involving the evaluation, testing, auditing, or review of accessibility components across the following platforms:
+- **UI Design** (static review context)
+- **Android**
+- **iOS**
+- **Web**
 
-* **No Context Bleed:** Never apply iOS guidelines to Web components, nor apply Web standards  to native mobile apps.
-* **Domain Lock:** State your active platform context (e.g., "Target Platform: Web/HTML") before generating any output to ensure your evaluation is anchored to the correct environment.
+### When This Skill Applies
+Use this guide when:
+- You are asked to evaluate, test, audit, or review an accessibility component.
+- You need to ensure compliance with platform-specific accessibility standards.
 
-## Agent Operational Workflow
+### When This Skill Does Not Apply
+This guide is **not**:
+- A general-purpose implementation guide.
+- A WCAG conformance claim.
+- A substitute for platform-specific testing or automated-only testing.
+- Applicable to unsupported components or cross-platform extrapolation.
 
-Follow these steps in exact order when asked to evaluate, test, or audit a component:
+### Required Inputs
+Before beginning an assessment, you must have:
+1. **Platform**: The target platform (e.g., Web, Android, iOS, or Design).
+2. **Component**: The specific component to be assessed.
+3. **Reference**: The implementation or design reference.
+4. **Test Environment**: The available tools and environments for testing.
 
-### Step 1: Determine the Platform Context
-Identify the target platform from the user's request (Design, Android, iOS, or Web). Lock your active context strictly to this environment.
+If any of these inputs are ambiguous, **ask for clarification** rather than infer.
 
-### Step 2: Locate the Target Component
-Navigate to the specific platform section in this index (e.g., `## Accessible Web`) and find the exact component link. Do not look for components in other platform categories.
+### Strict Platform Guardrails (Mandatory Check)
+Before accessing any component:
+- **Verify the platform**: Confirm the target platform (Design, Android, iOS, or Web).
+- **Isolate criteria by platform**: Never apply iOS guidelines to Web components, nor apply Web standards to native mobile apps.
+- **State the context**: Explicitly declare the platform and component being assessed.
 
-### Step 3: Parse and Execute the Linked Skill File
-Load the linked `.md` file. Linked files contain two primary testing structures that you must execute based on the document's format:
+### Design vs. Functional Testing
+- **Design Review**: Applies to static design evaluations. Behavioral test methods do not apply.
+- **Functional Testing**: Applies to implemented components on Android, iOS, or Web.
 
-#### A. Interactive Testing Protocols (`Given / When / Then`)
-For files in /accessible-android, /accessible-ios, and /accessible-web containing behavioral scenarios:
+### Out-of-Scope Cases
+- Unsupported components.
+- Automated-only testing without manual verification.
+- Claims based on incomplete evidence.
 
-* **Confirm Environment:** Determine whether testing requires **Keyboard Only**, **Desktop Screenreader** (NVDA/JAWS/VoiceOver), **Mobile Screenreader** (VoiceOver/TalkBack), or **Device Settings** (Text Scaling/High Contrast).
-* **Pattern Validation:** Ensure the usage aligns with **When to use**, avoids **Antipatterns**, and corrects **Misconceptions**.
-* **Execute Test Sequence:** Follow the `GIVEN` setup state, perform the `WHEN` action, and verify that the actual interface response matches the `THEN` expected result.
+## Assessment Workflow
 
-#### B. Design & WCAG Criteria Checklists
-For files containing WCAG lists and intent matrices:
+### Scope Decision
+Before starting, confirm:
+- The platform, component, and test environment.
+- Whether the task is eligible for assessment. If not, mark it as **Blocked**.
 
-* **WCAG Conformance Check:** Verify the design or UI against the enumerated WCAG criteria grouped under **Perceivable**, **Operable**, **Understandable**, and **Robust**.
-* **Disability Impact Check:** Cross-reference findings against specific user groups (e.g., Low vision, Motor, Blindness).
-
-## Required Assessment Output
-
+### Required Assessment Output
 For each component assessment:
-
-1. State the target platform and component being assessed.
-2. Name the skill file used, for example `accessible-web/button.md`.
-3. Run only the checks applicable to that platform and component.
-4. Report every check as **Pass**, **Fail**, or **Blocked**.
-5. For each failed or blocked check, record the observed result and the test method used.
-6. Recommend a specific remediation for each failure. Do not claim WCAG conformance unless the relevant success criteria were tested.
+1. State the platform, component, and skill file used.
+2. Report every check as **Pass**, **Fail**, or **Blocked**.
+3. Record the exact test method and evidence for each result.
+4. List unavailable environments as **Blocked**.
 
 Use this format:
 
@@ -59,12 +73,11 @@ Use this format:
 
 ### Results
 
-| Check | Status | Evidence | Remediation |
-| --- | --- | --- | --- |
-| Keyboard activation | Pass | Enter and Space activate the control | N/A |
-| Accessible name and role | Fail | Screen reader announces "button" without a useful name | Provide an accessible name that describes the action |
-| Focus visibility | Blocked | Keyboard testing environment unavailable | Test with keyboard-only navigation |
-
+| Check                 | Status  | Evidence                                   | Remediation                          |
+|-----------------------|---------|-------------------------------------------|--------------------------------------|
+| Keyboard activation   | Pass    | Enter and Space activate the control      | N/A                                  |
+| Accessible name/role  | Fail    | Screen reader announces "button" only     | Provide an accessible name           |
+| Focus visibility      | Blocked | Keyboard testing environment unavailable  | Test with keyboard-only navigation   |
 ## Skills Platform Directory
 
 ### Accessible web
@@ -238,4 +251,4 @@ Use this format:
 - [Tab bar](accessible-ios/tab-bar.md)
 - [Toggle switch](accessible-ios/toggle-switch.md)
 
-> AtomicA11y accessibility skills v1.0.0 | Generated 2026-09-15
+> AtomicA11y accessibility skills v1.0.0 | Generated 2026-09-16

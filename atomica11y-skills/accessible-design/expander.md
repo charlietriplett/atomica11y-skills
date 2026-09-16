@@ -4,7 +4,7 @@ title: "Expander accordion"
 platform: design
 skill_type: component-assessment
 version: 1.0.0
-generated: "2026-09-15"
+generated: "2026-09-16"
 source: https://www.atomica11y.com/accessible-design/expander/
 ---
 
@@ -70,4 +70,4 @@ An expander accordion must work for people with disabilities:
 - Conveys the correct name, role, state  4.1.2 A
 - Meets criteria across platforms, devices and viewports 4.0.0 AA
 
-> AtomicA11y accessibility skills v1.0.0 | Generated 2026-09-15
+> AtomicA11y accessibility skills v1.0.0 | Generated 2026-09-16

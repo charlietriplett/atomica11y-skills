@@ -4,7 +4,7 @@ title: "Password input"
 platform: web
 skill_type: component-assessment
 version: 1.0.0
-generated: "2026-09-15"
+generated: "2026-09-16"
 source: https://www.atomica11y.com/accessible-web/password-input/
 ---
 
@@ -95,4 +95,4 @@ Commonly repeated myths or false beliefs lead to confusion or misuse of a passwo
 - Blocking paste doesn’t make forms more secure. It only forces users to type complex passwords manually, which reduces security by discouraging the use of password managers. For people using assistive technology, it is especially cumbersome. So don’t do that.
 
 
-> AtomicA11y accessibility skills v1.0.0 | Generated 2026-09-15
+> AtomicA11y accessibility skills v1.0.0 | Generated 2026-09-16

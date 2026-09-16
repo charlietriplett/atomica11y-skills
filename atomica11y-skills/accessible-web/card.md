@@ -4,7 +4,7 @@ title: "Card box"
 platform: web
 skill_type: component-assessment
 version: 1.0.0
-generated: "2026-09-15"
+generated: "2026-09-16"
 source: https://www.atomica11y.com/accessible-web/card/
 ---
 
@@ -83,4 +83,4 @@ Commonly repeated myths or false beliefs lead to confusion or misuse of a card b
 - Cards are not a replacement for proper semantic structure. Ensure the content inside the card follows semantic HTML principles.
 
 
-> AtomicA11y accessibility skills v1.0.0 | Generated 2026-09-15
+> AtomicA11y accessibility skills v1.0.0 | Generated 2026-09-16

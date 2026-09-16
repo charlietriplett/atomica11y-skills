@@ -4,7 +4,7 @@ title: "Textarea multiline input"
 platform: web
 skill_type: component-assessment
 version: 1.0.0
-generated: "2026-09-15"
+generated: "2026-09-16"
 source: https://www.atomica11y.com/accessible-web/textarea/
 ---
 
@@ -87,4 +87,4 @@ Commonly repeated myths or false beliefs lead to confusion or misuse of a textar
 - Autofocus does not improve user experience or accessibility; unexpected focus change will disorient screen reader and keyboard users.
 
 
-> AtomicA11y accessibility skills v1.0.0 | Generated 2026-09-15
+> AtomicA11y accessibility skills v1.0.0 | Generated 2026-09-16

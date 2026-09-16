@@ -4,7 +4,7 @@ title: "Strikethrough content"
 platform: web
 skill_type: component-assessment
 version: 1.0.0
-generated: "2026-09-15"
+generated: "2026-09-16"
 source: https://www.atomica11y.com/accessible-web/strikethrough/
 ---
 
@@ -67,4 +67,4 @@ Commonly repeated myths or false beliefs lead to confusion or misuse of a strike
 - The strikethrough <code class="language-plaintext highlighter-rouge">&lt;s&gt;</code> markup is ignored by screen readers. Instead, use visually hidden text to indicate the state of the strikethrough text.
 
 
-> AtomicA11y accessibility skills v1.0.0 | Generated 2026-09-15
+> AtomicA11y accessibility skills v1.0.0 | Generated 2026-09-16
