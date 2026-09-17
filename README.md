@@ -6,6 +6,6 @@ The files in [`atomica11y-skills/`](atomica11y-skills/) are automatically publis
 
 ## Copyright and license
 
-Copyright 2026 Charlie Triplett LLC.
+Copyright 2026 [Charlie Triplett LLC](https://www.charliecharliecharlie.com/).
 
 These skills are distributed under the [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0).
