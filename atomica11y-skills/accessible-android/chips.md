@@ -5,7 +5,7 @@ description: Test accessible Android Chips. Use when compact Android controls re
 platform: android
 skill_type: component-assessment
 version: 1.0.0
-generated: "2026-09-16"
+generated: "2026-09-17"
 source: https://www.atomica11y.com/accessible-android/chips/
 ---
 
@@ -52,4 +52,4 @@ Given that I am on a screen with a chips
 - WHEN I use text resize I SEE text can resize up to 200% without losing information
 
 
-> AtomicA11y accessibility skills v1.0.0 | Generated 2026-09-16
+> AtomicA11y accessibility skills v1.0.0 | Generated 2026-09-17

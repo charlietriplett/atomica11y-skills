@@ -5,7 +5,7 @@ description: Code and test accessible Web Text input. Use when people enter a sh
 platform: web
 skill_type: component-assessment
 version: 1.0.0
-generated: "2026-09-16"
+generated: "2026-09-17"
 source: https://www.atomica11y.com/accessible-web/input-text/
 ---
 
@@ -86,4 +86,4 @@ Commonly repeated myths or false beliefs lead to confusion or misuse of a text i
 - Autofocus does not improve user experience or accessibility; unexpected focus change will disorient screen reader and keyboard users.
 
 
-> AtomicA11y accessibility skills v1.0.0 | Generated 2026-09-16
+> AtomicA11y accessibility skills v1.0.0 | Generated 2026-09-17

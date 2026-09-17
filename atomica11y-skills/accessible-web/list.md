@@ -5,7 +5,7 @@ description: Code and test accessible Web List\". Use when related Web items are
 platform: web
 skill_type: component-assessment
 version: 1.0.0
-generated: "2026-09-16"
+generated: "2026-09-17"
 source: https://www.atomica11y.com/accessible-web/list/
 ---
 
@@ -83,4 +83,4 @@ Commonly repeated myths or false beliefs lead to confusion or misuse of a list. 
 - Visual spacing alone does not programmatically communicate the relationships between items as effectively as semantic list markup.
 
 
-> AtomicA11y accessibility skills v1.0.0 | Generated 2026-09-16
+> AtomicA11y accessibility skills v1.0.0 | Generated 2026-09-17

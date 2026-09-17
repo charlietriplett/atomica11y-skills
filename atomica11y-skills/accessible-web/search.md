@@ -5,7 +5,7 @@ description: Code and test accessible Web Search input. Use when people enter a 
 platform: web
 skill_type: component-assessment
 version: 1.0.0
-generated: "2026-09-16"
+generated: "2026-09-17"
 source: https://www.atomica11y.com/accessible-web/search/
 ---
 
@@ -97,4 +97,4 @@ Commonly repeated myths or false beliefs lead to confusion or misuse of a search
 - A search input is not implicitly understood by a visual magnifying glass icon. A search input must be identifiable programmatically with an accessible name and a search role in the surrounding form,.
 
 
-> AtomicA11y accessibility skills v1.0.0 | Generated 2026-09-16
+> AtomicA11y accessibility skills v1.0.0 | Generated 2026-09-17

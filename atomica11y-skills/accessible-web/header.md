@@ -5,7 +5,7 @@ description: Code and test accessible Web Header / banner landmark\". Use when a
 platform: web
 skill_type: component-assessment
 version: 1.0.0
-generated: "2026-09-16"
+generated: "2026-09-17"
 source: https://www.atomica11y.com/accessible-web/header/
 ---
 
@@ -83,4 +83,4 @@ Commonly repeated myths or false beliefs lead to confusion or misuse of a header
 - The header landmark itself does not receive focus; only controls inside it do.
 
 
-> AtomicA11y accessibility skills v1.0.0 | Generated 2026-09-16
+> AtomicA11y accessibility skills v1.0.0 | Generated 2026-09-17

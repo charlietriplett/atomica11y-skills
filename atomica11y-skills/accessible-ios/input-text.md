@@ -5,7 +5,7 @@ description: Test accessible iOS Text input field\". Use when people enter a sho
 platform: ios
 skill_type: component-assessment
 version: 1.0.0
-generated: "2026-09-16"
+generated: "2026-09-17"
 source: https://www.atomica11y.com/accessible-ios/input-text/
 ---
 
@@ -46,4 +46,4 @@ Given that I am on a screen with a text input field
 - WHEN I use increased contrast I SEE focus outline becomes high contrast
 
 
-> AtomicA11y accessibility skills v1.0.0 | Generated 2026-09-16
+> AtomicA11y accessibility skills v1.0.0 | Generated 2026-09-17

@@ -5,7 +5,7 @@ description: Design accessible Heading: h1, h2, h3\". Use when a title introduce
 platform: design
 skill_type: component-assessment
 version: 1.0.0
-generated: "2026-09-16"
+generated: "2026-09-17"
 source: https://www.atomica11y.com/accessible-design/heading/
 ---
 
@@ -53,4 +53,4 @@ A heading: h1, h2, h3 must work for people with disabilities:
 - Heading level structure is documented 1.3.1 A
 - Name and role is documented - 4.1.2 A
 
-> AtomicA11y accessibility skills v1.0.0 | Generated 2026-09-16
+> AtomicA11y accessibility skills v1.0.0 | Generated 2026-09-17

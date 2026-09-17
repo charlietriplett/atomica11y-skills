@@ -5,7 +5,7 @@ description: Design accessible Alert notification. Use when a change in the page
 platform: design
 skill_type: component-assessment
 version: 1.0.0
-generated: "2026-09-16"
+generated: "2026-09-17"
 source: https://www.atomica11y.com/accessible-design/alert/
 ---
 
@@ -55,4 +55,4 @@ An alert notification must work for people with disabilities:
 - Message is announced on appearance, does not take focus is documented - 4.1.3 A
 - Alerts do not auto-dismiss 2.2.3 AAA
 
-> AtomicA11y accessibility skills v1.0.0 | Generated 2026-09-16
+> AtomicA11y accessibility skills v1.0.0 | Generated 2026-09-17

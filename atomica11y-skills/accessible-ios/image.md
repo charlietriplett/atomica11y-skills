@@ -5,7 +5,7 @@ description: Test accessible iOS Informative image\". Use when an image conveys 
 platform: ios
 skill_type: component-assessment
 version: 1.0.0
-generated: "2026-09-16"
+generated: "2026-09-17"
 source: https://www.atomica11y.com/accessible-ios/image/
 ---
 
@@ -35,4 +35,4 @@ Given that I am on a screen with an informative image
   - I HEAR it identifies its role as an image
 
 
-> AtomicA11y accessibility skills v1.0.0 | Generated 2026-09-16
+> AtomicA11y accessibility skills v1.0.0 | Generated 2026-09-17

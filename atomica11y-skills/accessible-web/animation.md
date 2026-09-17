@@ -5,7 +5,7 @@ description: Code and test accessible Web Animation. Use when motion, animation,
 platform: web
 skill_type: component-assessment
 version: 1.0.0
-generated: "2026-09-16"
+generated: "2026-09-17"
 source: https://www.atomica11y.com/accessible-web/animation/
 ---
 
@@ -94,4 +94,4 @@ Commonly repeated myths or false beliefs lead to confusion or misuse of a animat
 - Animations do not always improve UX. People come to your application to solve a problem, not to be entertained. Motion should improve understanding, not distract from completing a task.
 
 
-> AtomicA11y accessibility skills v1.0.0 | Generated 2026-09-16
+> AtomicA11y accessibility skills v1.0.0 | Generated 2026-09-17

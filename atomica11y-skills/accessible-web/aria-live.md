@@ -5,7 +5,7 @@ description: Code and test accessible Web Dynamic single page app. Use when dyna
 platform: web
 skill_type: component-assessment
 version: 1.0.0
-generated: "2026-09-16"
+generated: "2026-09-17"
 source: https://www.atomica11y.com/accessible-web/aria-live/
 ---
 
@@ -80,4 +80,4 @@ Commonly repeated myths or false beliefs lead to confusion or misuse of a dynami
 - Dynamic content being read twice does not constitute a bug.
 
 
-> AtomicA11y accessibility skills v1.0.0 | Generated 2026-09-16
+> AtomicA11y accessibility skills v1.0.0 | Generated 2026-09-17

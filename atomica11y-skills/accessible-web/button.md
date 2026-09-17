@@ -5,7 +5,7 @@ description: Code and test accessible Web Button. Use when a control performs an
 platform: web
 skill_type: component-assessment
 version: 1.0.0
-generated: "2026-09-16"
+generated: "2026-09-17"
 source: https://www.atomica11y.com/accessible-web/button/
 ---
 
@@ -100,4 +100,4 @@ Commonly repeated myths or false beliefs lead to confusion or misuse of a button
 - Just because a form control is styled like a button doesn’t mean it is one. Question the function. Is it selecting one from a group? Use radio buttons. Is it selecting multiple from a group? Use checkboxes.
 
 
-> AtomicA11y accessibility skills v1.0.0 | Generated 2026-09-16
+> AtomicA11y accessibility skills v1.0.0 | Generated 2026-09-17

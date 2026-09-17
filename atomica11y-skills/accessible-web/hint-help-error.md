@@ -5,7 +5,7 @@ description: Code and test accessible Web Hint, help, or error. Use when a form 
 platform: web
 skill_type: component-assessment
 version: 1.0.0
-generated: "2026-09-16"
+generated: "2026-09-17"
 source: https://www.atomica11y.com/accessible-web/hint-help-error/
 ---
 
@@ -70,4 +70,4 @@ Commonly repeated myths or false beliefs lead to confusion or misuse of a hint, 
 - Tooltips are not a better user experience. Well-written, visible help text placed in proximity to the input field provides a superior experience for all users.
 
 
-> AtomicA11y accessibility skills v1.0.0 | Generated 2026-09-16
+> AtomicA11y accessibility skills v1.0.0 | Generated 2026-09-17

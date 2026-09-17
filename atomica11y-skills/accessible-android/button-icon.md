@@ -5,7 +5,7 @@ description: Test accessible Android Icon button. Use when an icon-only Android 
 platform: android
 skill_type: component-assessment
 version: 1.0.0
-generated: "2026-09-16"
+generated: "2026-09-17"
 source: https://www.atomica11y.com/accessible-android/button-icon/
 ---
 
@@ -47,4 +47,4 @@ Given that I am on a screen with an icon button
   - I HEAR the action occurs
 
 
-> AtomicA11y accessibility skills v1.0.0 | Generated 2026-09-16
+> AtomicA11y accessibility skills v1.0.0 | Generated 2026-09-17

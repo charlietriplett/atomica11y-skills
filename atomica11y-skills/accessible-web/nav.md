@@ -5,7 +5,7 @@ description: Code and test accessible Web Navigation landmark. Use when a group 
 platform: web
 skill_type: component-assessment
 version: 1.0.0
-generated: "2026-09-16"
+generated: "2026-09-17"
 source: https://www.atomica11y.com/accessible-web/nav/
 ---
 
@@ -85,4 +85,4 @@ Commonly repeated myths or false beliefs lead to confusion or misuse of a naviga
 - A <code class="language-plaintext highlighter-rouge">&lt;nav&gt;</code> landmark itself does not receive tab focus, but it can be targetable using a skip link.
 
 
-> AtomicA11y accessibility skills v1.0.0 | Generated 2026-09-16
+> AtomicA11y accessibility skills v1.0.0 | Generated 2026-09-17

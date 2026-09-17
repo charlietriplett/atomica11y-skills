@@ -5,7 +5,7 @@ description: Code and test accessible Web Expander accordion. Use when a button 
 platform: web
 skill_type: component-assessment
 version: 1.0.0
-generated: "2026-09-16"
+generated: "2026-09-17"
 source: https://www.atomica11y.com/accessible-web/expander/
 ---
 
@@ -97,4 +97,4 @@ Commonly repeated myths or false beliefs lead to confusion or misuse of a expand
 - Pages with a lot of content are not improved by placing content in expanders to make the page shorter. People do know how to scroll, but they may miss content when it’s collapsed.
 
 
-> AtomicA11y accessibility skills v1.0.0 | Generated 2026-09-16
+> AtomicA11y accessibility skills v1.0.0 | Generated 2026-09-17

@@ -5,7 +5,7 @@ description: Code and test accessible Web Date picker dialog. Use when people se
 platform: web
 skill_type: component-assessment
 version: 1.0.0
-generated: "2026-09-16"
+generated: "2026-09-17"
 source: https://www.atomica11y.com/accessible-web/date-picker/
 ---
 
@@ -151,4 +151,4 @@ Commonly repeated myths or false beliefs lead to confusion or misuse of a date p
 - Custom date pickers are universally better than simply entering a date. Power users performing administrative date entry are often faster at typing than navigating a calendar.
 
 
-> AtomicA11y accessibility skills v1.0.0 | Generated 2026-09-16
+> AtomicA11y accessibility skills v1.0.0 | Generated 2026-09-17

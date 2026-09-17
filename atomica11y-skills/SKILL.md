@@ -1,6 +1,11 @@
 ---
 name: atomica11y-skills
-description: Component checklists for testing accessibility across multiple platforms
+description: Evaluate, test, audit, or review design, web, iOS, and Android components using platform-specific accessibility criteria. Use when a task needs manual accessibility assessment and a component reference is available.
+license: Apache-2.0
+metadata:
+  author: Charlie Triplett LLC
+  version: "1.0.0"
+  source_repository: "https://github.com/charlietriplett/atomica11y"
 ---
 
 # Accessibility Manual Testing Component Index
@@ -39,6 +44,13 @@ Before accessing any component:
 - **Verify the platform**: Confirm the target platform (Design, Android, iOS, or Web).
 - **Isolate criteria by platform**: Never apply iOS guidelines to Web components, nor apply Web standards to native mobile apps.
 - **State the context**: Explicitly declare the platform and component being assessed.
+
+### Select the Component Reference
+This is the registered skill. The platform and component documents in the directories below are reference material for this skill, not separately registered skills.
+
+1. Select the directory for the confirmed platform: `accessible-design/`, `accessible-web/`, `accessible-ios/`, or `accessible-android/`.
+2. Read the file named for the confirmed component, for example `accessible-web/button.md`.
+3. If that file does not exist, mark the assessment as **Blocked**. Do not substitute criteria from another platform or component.
 
 ### Design vs. Functional Testing
 - **Design Review**: Applies to static design evaluations. Behavioral test methods do not apply.
@@ -251,4 +263,4 @@ Use this format:
 - [Tab bar](accessible-ios/tab-bar.md)
 - [Toggle switch](accessible-ios/toggle-switch.md)
 
-> AtomicA11y accessibility skills v1.0.0 | Generated 2026-09-16
+> AtomicA11y accessibility skills v1.0.0 | Generated 2026-09-17

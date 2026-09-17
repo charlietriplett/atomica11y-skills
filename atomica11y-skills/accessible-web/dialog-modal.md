@@ -5,7 +5,7 @@ description: Code and test accessible Web Dialog modal. Use when a task or messa
 platform: web
 skill_type: component-assessment
 version: 1.0.0
-generated: "2026-09-16"
+generated: "2026-09-17"
 source: https://www.atomica11y.com/accessible-web/dialog-modal/
 ---
 
@@ -130,4 +130,4 @@ Commonly repeated myths or false beliefs lead to confusion or misuse of a dialog
 - Using role=”dialog” on custom elements does not implement full keyboard compatibility. Always use a semantic <dialog> element.</dialog>
 
 
-> AtomicA11y accessibility skills v1.0.0 | Generated 2026-09-16
+> AtomicA11y accessibility skills v1.0.0 | Generated 2026-09-17

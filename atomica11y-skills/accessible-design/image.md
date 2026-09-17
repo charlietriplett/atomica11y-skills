@@ -5,7 +5,7 @@ description: Design accessible Informative image. Use when an image conveys info
 platform: design
 skill_type: component-assessment
 version: 1.0.0
-generated: "2026-09-16"
+generated: "2026-09-17"
 source: https://www.atomica11y.com/accessible-design/image/
 ---
 
@@ -35,4 +35,4 @@ An informative image must work for people with disabilities:
 - Images of text are only used for pure decoration or where a particular presentation of text is essential to the information being conveyed - 1.4.9 AAA
 - Name and role is documented - 4.1.2 A
 
-> AtomicA11y accessibility skills v1.0.0 | Generated 2026-09-16
+> AtomicA11y accessibility skills v1.0.0 | Generated 2026-09-17

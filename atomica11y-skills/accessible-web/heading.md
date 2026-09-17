@@ -5,7 +5,7 @@ description: Code and test accessible Web Heading: h1, h2, h3\". Use when a titl
 platform: web
 skill_type: component-assessment
 version: 1.0.0
-generated: "2026-09-16"
+generated: "2026-09-17"
 source: https://www.atomica11y.com/accessible-web/heading/
 ---
 
@@ -25,7 +25,7 @@ Given that I am on a screen with a heading: h1, h2, h3
 
   - I SEE the heading comes into view
 
-- WHEN  I use the tab key
+- OR when I use the tab key
  
   - I SEE nothing happens to the heading because headings must NOT be focusable
 
@@ -40,7 +40,7 @@ Given that I am on a screen with a heading: h1, h2, h3
 
   - I HEAR it is logically ordered, starting with a single h1, sections titled by h2, and sub-subsections with h3
 
-- WHEN  I use the tab key
+- OR when I use the tab key
  
   - I HEAR nothing happens to the heading because headings must not be focusable
 
@@ -89,4 +89,4 @@ Commonly repeated myths or false beliefs lead to confusion or misuse of a headin
 - While technically when there are multiple article elements, each one can have an h1, don’t do that. This is not helpful for people using a screen reader who are expecting a singular h1 to convey the purpose of the page as a whole.
 
 
-> AtomicA11y accessibility skills v1.0.0 | Generated 2026-09-16
+> AtomicA11y accessibility skills v1.0.0 | Generated 2026-09-17
