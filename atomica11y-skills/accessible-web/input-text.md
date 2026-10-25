@@ -1,7 +1,7 @@
 ---
 id: atomica11y-skills-web-input-text
 title: "Text input"
-description: Code and test accessible Web Text input. Use when people enter a short text value.
+description: How to code and test an accessible text input for Web
 platform: web
 skill_type: component-assessment
 version: 1.0.0

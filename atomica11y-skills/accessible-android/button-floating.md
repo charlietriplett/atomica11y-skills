@@ -1,7 +1,7 @@
 ---
 id: atomica11y-skills-android-button-floating
 title: "Floating action button"
-description: Test accessible Android Floating action button. Use when a prominent Android action is exposed with a floating action button.
+description: How to test accessible Android floating action buttons
 platform: android
 skill_type: component-assessment
 version: 1.0.0

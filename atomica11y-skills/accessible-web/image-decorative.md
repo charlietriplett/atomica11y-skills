@@ -1,7 +1,7 @@
 ---
 id: atomica11y-skills-web-image-decorative
 title: "Decorative image / icon"
-description: Code and test accessible Web Decorative image / icon. Use when an image is visual decoration and conveys no needed information.
+description: How to code and test accessible decorative icons and images (jpg, gif, png, svg) for Web
 platform: web
 skill_type: component-assessment
 version: 1.0.0

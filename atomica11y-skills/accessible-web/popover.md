@@ -1,7 +1,7 @@
 ---
 id: atomica11y-skills-web-popover
 title: "Popover"
-description: Code and test accessible Web Popover. Use when a control reveals non-modal contextual content while the underlying content remains available.
+description: How to test an accessible popover non-modal dialog popup
 platform: web
 skill_type: component-assessment
 version: 1.0.0

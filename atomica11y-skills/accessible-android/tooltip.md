@@ -1,7 +1,7 @@
 ---
 id: atomica11y-skills-android-tooltip
 title: "Tooltip (plain)"
-description: Test accessible Android Tooltip (plain). Use when brief supplementary information appears for a control.
+description: How to test accessible Android plain tooltips
 platform: android
 skill_type: component-assessment
 version: 1.0.0

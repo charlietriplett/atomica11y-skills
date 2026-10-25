@@ -1,7 +1,7 @@
 ---
 id: atomica11y-skills-web-password-input
 title: "Password input"
-description: Code and test accessible Web Password input. Use when people enter a password and may reveal it temporarily.
+description: How to code and test an accessible password input for Web
 platform: web
 skill_type: component-assessment
 version: 1.0.0

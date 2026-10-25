@@ -1,7 +1,7 @@
 ---
 id: atomica11y-skills-web-stepper-input
 title: "Stepper input"
-description: Code and test accessible Web Stepper input. Use when people increment or decrement a Web numeric value.
+description: How to code and test an accessible stepper input for Web
 platform: web
 skill_type: component-assessment
 version: 1.0.0

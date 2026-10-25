@@ -1,7 +1,7 @@
 ---
 id: atomica11y-skills-web-button
 title: "Button"
-description: Code and test accessible Web Button. Use when a control performs an action, submits a form, or changes content on the current screen.
+description: How to code and test accessible buttons for Web
 platform: web
 skill_type: component-assessment
 version: 1.0.0

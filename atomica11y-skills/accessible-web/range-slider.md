@@ -1,7 +1,7 @@
 ---
 id: atomica11y-skills-web-range-slider
 title: "Range slider input"
-description: Code and test accessible Web Range slider input. Use when people set a Web value within a numeric range.
+description: How to code and test an accessible range slider input for Web
 platform: web
 skill_type: component-assessment
 version: 1.0.0

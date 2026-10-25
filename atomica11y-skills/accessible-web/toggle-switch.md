@@ -1,7 +1,7 @@
 ---
 id: atomica11y-skills-web-toggle-switch
 title: "Toggle switch"
-description: Code and test accessible Web Toggle switch. Use when people immediately turn a setting on or off.
+description: How to code and test an accessible toggle switch for Web
 platform: web
 skill_type: component-assessment
 version: 1.0.0

@@ -1,7 +1,7 @@
 ---
 id: atomica11y-skills-web-faq
 title: "FAQ"
-description: Code and test accessible Web FAQ. Use when frequently asked questions are presented as expandable questions and answers.
+description: How to code and test an accessible Frequently asked questions FAQ for Web
 platform: web
 skill_type: component-assessment
 version: 1.0.0

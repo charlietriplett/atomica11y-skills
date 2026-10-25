@@ -1,7 +1,7 @@
 ---
 id: atomica11y-skills-web-card
 title: "Card box"
-description: Code and test accessible Web Card box\". Use when related content or actions are grouped in a contained surface.
+description: How to code and test accessible card container boxes for Web
 platform: web
 skill_type: component-assessment
 version: 1.0.0

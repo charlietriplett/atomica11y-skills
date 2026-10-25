@@ -1,7 +1,7 @@
 ---
 id: atomica11y-skills-web-figure
 title: "Maps, charts & graphics"
-description: Code and test accessible Web Maps, charts & graphics. Use when a chart, map, graphic, illustration, or its caption conveys information.
+description: How to test accessible figures, maps, charts and tables for Web
 platform: web
 skill_type: component-assessment
 version: 1.0.0

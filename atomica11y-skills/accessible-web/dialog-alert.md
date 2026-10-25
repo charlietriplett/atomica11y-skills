@@ -1,7 +1,7 @@
 ---
 id: atomica11y-skills-web-dialog-alert
 title: "Dialog alert"
-description: Code and test accessible Web Dialog alert. Use when an urgent message requires acknowledgement before people continue.
+description: How to code and test an accessible alert dialog popup for Web
 platform: web
 skill_type: component-assessment
 version: 1.0.0

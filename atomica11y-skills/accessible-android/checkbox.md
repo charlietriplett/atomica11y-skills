@@ -1,7 +1,7 @@
 ---
 id: atomica11y-skills-android-checkbox
 title: "Checkbox"
-description: Test accessible Android Checkbox. Use when people can independently select one or more options.
+description: How to test accessible Android checkboxes
 platform: android
 skill_type: component-assessment
 version: 1.0.0

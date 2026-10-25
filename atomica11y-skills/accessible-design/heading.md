@@ -1,7 +1,7 @@
 ---
 id: atomica11y-skills-design-heading
 title: "Heading: h1, h2, h3"
-description: Design accessible Heading: h1, h2, h3\". Use when a title introduces a page or section of content.
+description: How to design accessible heading structure
 platform: design
 skill_type: component-assessment
 version: 1.0.0

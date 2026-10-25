@@ -1,7 +1,7 @@
 ---
 id: atomica11y-skills-design-alert
 title: "Alert notification"
-description: Design accessible Alert notification. Use when a change in the page needs to be announced without moving focus.
+description: How to design accessible alerts or status updates for Web
 platform: design
 skill_type: component-assessment
 version: 1.0.0

@@ -1,7 +1,7 @@
 ---
 id: atomica11y-skills-design-card
 title: "Card box"
-description: Design accessible Card box\". Use when related content or actions are grouped in a contained surface.
+description: How to code and test accessible card container boxes
 platform: design
 skill_type: component-assessment
 version: 1.0.0

@@ -1,7 +1,7 @@
 ---
 id: atomica11y-skills-design-form
 title: "Form"
-description: Design accessible Form. Use when people enter, review, and submit related information.
+description: How to design an accessible text input
 platform: design
 skill_type: component-assessment
 version: 1.0.0

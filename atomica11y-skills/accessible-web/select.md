@@ -1,7 +1,7 @@
 ---
 id: atomica11y-skills-web-select
 title: "Select dropdown listbox"
-description: Code and test accessible Web Select dropdown listbox. Use when people select a value from a predefined set of options.
+description: How to code and test an accessible listbox combobox select combobox dropdown for Web
 platform: web
 skill_type: component-assessment
 version: 1.0.0

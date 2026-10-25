@@ -1,7 +1,7 @@
 ---
 id: atomica11y-skills-android-heading
 title: "Heading"
-description: Test accessible Android Heading. Use when a title introduces a page or section of content.
+description: How to test accessible Android headings
 platform: android
 skill_type: component-assessment
 version: 1.0.0

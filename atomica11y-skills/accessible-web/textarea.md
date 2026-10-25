@@ -1,7 +1,7 @@
 ---
 id: atomica11y-skills-web-textarea
 title: "Textarea multiline input"
-description: Code and test accessible Web Textarea multiline input. Use when people enter a multi-line text response.
+description: How to code and test an accessible textarea multiline input for Web
 platform: web
 skill_type: component-assessment
 version: 1.0.0

@@ -1,7 +1,7 @@
 ---
 id: atomica11y-skills-web-chat
 title: "Chat"
-description: Code and test accessible Web Chat\". Use when people send and receive messages in a Web conversation interface.
+description: How to code and test accessible chat and chatbot message apps for Web
 platform: web
 skill_type: component-assessment
 version: 1.0.0

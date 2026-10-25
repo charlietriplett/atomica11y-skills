@@ -1,7 +1,7 @@
 ---
 id: atomica11y-skills-web-dialog-sheet
 title: "Dialog sheet"
-description: Code and test accessible Web Dialog sheet. Use when a task or message is presented in a modal sheet.
+description: How to code and test an accessible slide in bottom, top or side sheet modal dialog popup for Web
 platform: web
 skill_type: component-assessment
 version: 1.0.0

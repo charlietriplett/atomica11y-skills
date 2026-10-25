@@ -1,7 +1,7 @@
 ---
 id: atomica11y-skills-android-segmented-button
 title: "Segmented button"
-description: Test accessible Android Segmented button. Use when people select Android options from a compact, mutually exclusive group.
+description: How to test accessible Android segmented buttons
 platform: android
 skill_type: component-assessment
 version: 1.0.0

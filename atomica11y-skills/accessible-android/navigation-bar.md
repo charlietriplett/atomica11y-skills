@@ -1,7 +1,7 @@
 ---
 id: atomica11y-skills-android-navigation-bar
 title: "Navigation bar"
-description: Test accessible Android Navigation bar. Use when primary Android destinations are available in persistent navigation.
+description: How to test accessible Android navigation bar
 platform: android
 skill_type: component-assessment
 version: 1.0.0

@@ -1,7 +1,7 @@
 ---
 id: atomica11y-skills-design-image-decorative
 title: "Decorative image / icon"
-description: Design accessible Decorative image / icon. Use when an image is visual decoration and conveys no needed information.
+description: How to design accessible decorative icons and images (jpg, gif, png, svg)
 platform: design
 skill_type: component-assessment
 version: 1.0.0

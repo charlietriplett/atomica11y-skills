@@ -1,7 +1,7 @@
 ---
 id: atomica11y-skills-web-footnote
 title: "Footnote"
-description: Code and test accessible Web Footnote. Use when supplementary Web content is referenced from the main text.
+description: How to code and test an accessible footnote for Web
 platform: web
 skill_type: component-assessment
 version: 1.0.0

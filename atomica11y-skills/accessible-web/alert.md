@@ -1,7 +1,7 @@
 ---
 id: atomica11y-skills-web-alert
 title: "Alert notification"
-description: Code and test accessible Web Alert notification. Use when a change in the page needs to be announced without moving focus.
+description: How to code accessible alerts or status for Web
 platform: web
 skill_type: component-assessment
 version: 1.0.0

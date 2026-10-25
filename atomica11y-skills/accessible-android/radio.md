@@ -1,7 +1,7 @@
 ---
 id: atomica11y-skills-android-radio
 title: "Radio button"
-description: Test accessible Android Radio button. Use when people select exactly one option from a related group.
+description: How to test accessible Android radio buttons
 platform: android
 skill_type: component-assessment
 version: 1.0.0

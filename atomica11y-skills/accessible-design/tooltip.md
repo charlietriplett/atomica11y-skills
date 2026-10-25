@@ -1,7 +1,7 @@
 ---
 id: atomica11y-skills-design-tooltip
 title: "Tooltip"
-description: Design accessible Tooltip. Use when brief supplementary information appears for a control.
+description: How not to design an accessible tooltip for Web
 platform: design
 skill_type: component-assessment
 version: 1.0.0

@@ -1,7 +1,7 @@
 ---
 id: atomica11y-skills-android-button
 title: "Button"
-description: Test accessible Android Button. Use when a control performs an action, submits a form, or changes content on the current screen.
+description: How to test accessible Android buttons
 platform: android
 skill_type: component-assessment
 version: 1.0.0

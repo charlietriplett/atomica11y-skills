@@ -1,7 +1,7 @@
 ---
 id: atomica11y-skills-android-search
 title: "Search"
-description: Test accessible Android Search. Use when people enter a query to find content.
+description: How to test accessible Android search
 platform: android
 skill_type: component-assessment
 version: 1.0.0

@@ -193,7 +193,6 @@ Use this format:
 ### Accessible android
 
 - [Badge](accessible-android/badge.md)
-- [Bottom app bar](accessible-android/bottom-app-bar.md)
 - [Floating action button](accessible-android/button-floating.md)
 - [Icon button](accessible-android/button-icon.md)
 - [Button](accessible-android/button.md)
@@ -224,6 +223,7 @@ Use this format:
 - [Tabs](accessible-android/tabs.md)
 - [Time picker](accessible-android/time-picker.md)
 - [Toggle switch](accessible-android/toggle-switch.md)
+- [Toolbar](accessible-android/toolbar.md)
 - [Tooltip (rich)](accessible-android/tooltip-rich.md)
 - [Tooltip (plain)](accessible-android/tooltip.md)
 

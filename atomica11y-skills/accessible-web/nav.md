@@ -1,7 +1,7 @@
 ---
 id: atomica11y-skills-web-nav
 title: "Navigation landmark"
-description: Code and test accessible Web Navigation landmark. Use when a group of links provides navigation.
+description: How to code and test an accessible navigation menu for Web
 platform: web
 skill_type: component-assessment
 version: 1.0.0

@@ -1,7 +1,7 @@
 ---
 id: atomica11y-skills-android-tooltip-rich
 title: "Tooltip (rich)"
-description: Test accessible Android Tooltip (rich). Use when supplementary Android content needs interactive or formatted information.
+description: How to test accessible Android rich tooltips
 platform: android
 skill_type: component-assessment
 version: 1.0.0

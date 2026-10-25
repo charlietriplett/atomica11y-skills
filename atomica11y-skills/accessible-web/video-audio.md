@@ -1,7 +1,7 @@
 ---
 id: atomica11y-skills-web-video-audio
 title: "Video/audio player"
-description: Code and test accessible Web Video/audio player. Use when a Web audio or video player is part of the interface.
+description: How to code and test an accessible video/audio player for Web
 platform: web
 skill_type: component-assessment
 version: 1.0.0

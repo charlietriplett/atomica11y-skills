@@ -1,7 +1,7 @@
 ---
 id: atomica11y-skills-android-chips
 title: "Chips"
-description: Test accessible Android Chips. Use when compact Android controls represent choices, filters, input, or actions.
+description: How to test accessible Android chips
 platform: android
 skill_type: component-assessment
 version: 1.0.0

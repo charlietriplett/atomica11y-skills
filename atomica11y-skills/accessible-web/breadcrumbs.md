@@ -1,7 +1,7 @@
 ---
 id: atomica11y-skills-web-breadcrumbs
 title: "Breadcrumb navigation"
-description: Code and test accessible Web Breadcrumb navigation. Use when people need to understand or navigate a hierarchical path.
+description: How to code and test accessible breadcrumbs for Web
 platform: web
 skill_type: component-assessment
 version: 1.0.0

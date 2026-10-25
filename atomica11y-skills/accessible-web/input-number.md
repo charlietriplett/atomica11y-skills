@@ -1,7 +1,7 @@
 ---
 id: atomica11y-skills-web-input-number
 title: "Number input"
-description: Code and test accessible Web Number input. Use when people enter a numeric value.
+description: How to code and test an accessible number input for Web
 platform: web
 skill_type: component-assessment
 version: 1.0.0

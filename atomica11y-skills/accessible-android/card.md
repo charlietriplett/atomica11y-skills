@@ -1,7 +1,7 @@
 ---
 id: atomica11y-skills-android-card
 title: "Card"
-description: Test accessible Android Card. Use when related content or actions are grouped in a contained surface.
+description: How to test accessible Android card containers
 platform: android
 skill_type: component-assessment
 version: 1.0.0
