@@ -38,11 +38,11 @@ Given that I am on a screen with a card
 
 - WHEN I use a screenreader AND I swipe to move focus to a directly actionable card OR to any nested control inside a non-actionable card
 
-  - I HEAR if directly actionable, it identifies as button or link
+  - I HEAR the card purpose is clear and matches visible content
 
-  - I HEAR if non-actionable, any nested control expresses its name, role and (if applicable) state 
+  - I HEAR if card is directly actionable, it identifies its role and (if applicable) state
 
-  - I HEAR its purpose is clear and matches visible content
+  - I HEAR if card is non-actionable, any nested control expresses its name, role and (if applicable) state 
 
 - THEN when I doubletap with the control in focus
  

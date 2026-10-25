@@ -1,7 +1,7 @@
 ---
 id: atomica11y-skills-ios-expander
 title: "Disclosure expander"
-description: Test accessible iOS Disclosure expander\". Use when a button reveals or hides content in the current context.
+description: Test accessible iOS Disclosure expander. Use when a button reveals or hides content in the current context.
 platform: ios
 skill_type: component-assessment
 version: 1.0.0
