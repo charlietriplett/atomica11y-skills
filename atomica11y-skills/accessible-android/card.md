@@ -5,7 +5,7 @@ description: Test accessible Android Card. Use when related content or actions a
 platform: android
 skill_type: component-assessment
 version: 1.0.0
-generated: "2026-09-17"
+generated: "2026-10-25"
 source: https://www.atomica11y.com/accessible-android/card/
 ---
 
@@ -21,8 +21,12 @@ Given that I am on a screen with a card
 
 ### 1. Keyboard only
 
-- WHEN I use the tab key or arrow key to move focus to any nested control
+- WHEN I use the tab key or arrow key to move focus any nested control inside a non-actionable card
 
+  - I SEE focus is strongly visually indicated
+
+- OR WHEN  I use the tab key or arrow key to move focus to a directly actionable card
+ 
   - I SEE focus is strongly visually indicated
 
 - THEN when I use the spacebar or enter to activate the control
@@ -32,15 +36,13 @@ Given that I am on a screen with a card
 
 ### 2. Android screenreader
 
-- WHEN I use a screenreader AND I swipe to move focus to any nested control
-
-  - I HEAR its purpose is clear and matches visible content
-
-  - I HEAR if non-actionable, any nested control expresses its role
+- WHEN I use a screenreader AND I swipe to move focus to a directly actionable card OR to any nested control inside a non-actionable card
 
   - I HEAR if directly actionable, it identifies as button or link
 
-  - I HEAR any nested control expresses its state
+  - I HEAR if non-actionable, any nested control expresses its name, role and (if applicable) state 
+
+  - I HEAR its purpose is clear and matches visible content
 
 - THEN when I doubletap with the control in focus
  
@@ -55,5 +57,4 @@ Given that I am on a screen with a card
 
 - WHEN I use text resize I SEE text content can resize up to 200% without losing information
 
-
-> AtomicA11y accessibility skills v1.0.0 | Generated 2026-09-17
+> AtomicA11y accessibility skills v1.0.0 | Generated 2026-10-25
