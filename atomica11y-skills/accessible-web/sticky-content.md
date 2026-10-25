@@ -48,7 +48,7 @@ Data for deciding which components to use for what purposes.
 
 Sticky element usage guidelines provide insight into when and how to use a component effectively, ensuring that it serves its intended purpose.
 
-- Use sticky elements for critical content or controls that must remain accessible as the user scroll, but have a really good reason for doing so. Not just because someone saw it on another website and thought it was cool.
+- Use sticky elements for critical content or controls that must remain accessible as the user scrolls, but have a really good reason for doing so. Not just because someone saw it on another website and thought it was cool.
 - Ensure the logical DOM order matches the visual presentation of the sticky elements.
 
 
